@@ -1,8 +1,6 @@
-# Strata Reloaded
+# My personal website
 
-Simple, clean personal blogging template for Jekyll based on Strata by HTML5 UP.
-
-![Strata Reloaded template screenshot](images/_screenshot.png)
+Simple, clean personal blogging for Jekyll by HTML5 UP.
 
 ## Features
 
